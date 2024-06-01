@@ -1,0 +1,4 @@
+var names = ["Hassan", "Azlan", "Huzaifa"];
+for (var i = 0; i < names.length; i++) {
+    console.log("Dear Mr." + names[i] + "\nIt is our pleasure to invit you in our party" + "\nThank you");
+}

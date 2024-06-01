@@ -1,0 +1,10 @@
+var locations = ["London", "Paris", "Germany", "India", "Dubai", "Russia"];
+console.log(locations);
+console.log(locations.sort());
+console.log(locations);
+console.log(locations.sort().reverse());
+console.log(locations);
+console.log(locations.reverse());
+console.log(locations.reverse());
+console.log(locations.sort());
+console.log(locations.sort().reverse());
